@@ -1,0 +1,37 @@
+APEX DIAGNOSTIC CARE & ENDOCRINE LABORATORY
+100ft Road, Indiranagar, Bengaluru, Karnataka - 560038
+NABL Accredited Quality Healthcare Provider
+Ph: +91-80-41223344 | Email: care@apexdiagnostic.in
+
+THYROID HORMONE PROFILE & OUTPATIENT VITALS
+================================================================================
+Patient Name : Kavita Sundaram               Age / Gender : 42 Y / Female
+Patient ID   : APX-BLR-661209                Referred By  : Dr. Vikram Malhotra
+Collection   : 18-Oct-2026 09:00 AM          Report Date  : 18-Oct-2026 01:30 PM
+Specimen     : Serum (Fasting)               Mobile       : +91-97412-34567
+Address      : 55 Defence Colony, Indiranagar, Bengaluru - 560038
+ABHA ID      : kavita.s@abdm                 Aadhaar Ref  : XXXX-XXXX-7711
+================================================================================
+
+THYROID PANEL (TOTAL & FREE HORMONES)
+--------------------------------------------------------------------------------
+Test Name                       Result     Units      Biological Reference      Method
+--------------------------------------------------------------------------------
+THYROID STIMULATING HORMONE     6.85       uIU/mL     0.40 - 4.50               Ultra-sensitive ECLIA
+TOTAL TRIIODOTHYRONINE (T3)     110        ng/dL      60.0 - 200.0              Chemiluminescence
+TOTAL THYROXINE (T4)            7.2        ug/dL      4.5 - 12.0                Chemiluminescence
+FREE TRIIODOTHYRONINE (FT3)     2.8        pg/mL      2.0 - 4.4                 Chemiluminescence
+FREE THYROXINE (FT4)            1.1        ng/dL      0.8 - 1.8                 Chemiluminescence
+
+CLINICAL VITALS RECORDING
+Systolic BP                     132        mmHg       90 - 120                  Aneroid Sphygmomanometer
+Diastolic BP                    86         mmHg       60 - 80                   Aneroid Sphygmomanometer
+Heart Rate                      72         bpm        60 - 100                  Palpation
+================================================================================
+Endocrine Findings:
+Elevated TSH (6.85 uIU/mL) with normal Free T4 (1.1 ng/dL) and Free T3 (2.8 pg/mL)
+suggests mild Subclinical Hypothyroidism.
+Blood pressure mildly elevated at 132/86 mmHg.
+Repeat TSH and anti-TPO antibody screening recommended in 6-8 weeks.
+--------------------------------------------------------------------------------
+*** End of Report - Authenticated by Dr. Malini Swaminathan, MD (Biochemistry) ***

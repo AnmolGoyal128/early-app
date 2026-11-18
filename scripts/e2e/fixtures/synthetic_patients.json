@@ -1,0 +1,111 @@
+{
+  "patients": [
+    {
+      "id": "p-aarav-sharma-001",
+      "user": {
+        "email": "aarav.sharma@synthetic-early-demo.in",
+        "fullName": "Aarav Sharma",
+        "phone": "+91-98765-43210",
+        "role": "PATIENT"
+      },
+      "dateOfBirth": "1978-05-14",
+      "gender": "MALE",
+      "bloodGroup": "B+",
+      "isSyntheticDemo": true,
+      "clinicalProfile": {
+        "primaryCondition": "Pre-diabetes & Stage 1 Hypertension",
+        "baselineHbA1c": 5.8,
+        "followupHbA1c": 6.4,
+        "baselineSystolicBP": 146,
+        "baselineDiastolicBP": 92
+      }
+    },
+    {
+      "id": "p-meera-nair-002",
+      "user": {
+        "email": "meera.nair@synthetic-early-demo.in",
+        "fullName": "Meera Nair",
+        "phone": "+91-98234-56789",
+        "role": "PATIENT"
+      },
+      "dateOfBirth": "1972-11-20",
+      "gender": "FEMALE",
+      "bloodGroup": "O+",
+      "isSyntheticDemo": true,
+      "clinicalProfile": {
+        "primaryCondition": "Hypertension & Declining Renal Function",
+        "baselineEGFR": 75.0,
+        "followupEGFR": 58.0,
+        "baselineSerumCreatinine": 1.1,
+        "followupSerumCreatinine": 1.5
+      }
+    },
+    {
+      "id": "p-rohan-verma-003",
+      "user": {
+        "email": "rohan.verma@synthetic-early-demo.in",
+        "fullName": "Rohan Verma",
+        "phone": "+91-99123-45678",
+        "role": "PATIENT"
+      },
+      "dateOfBirth": "1994-03-08",
+      "gender": "MALE",
+      "bloodGroup": "A+",
+      "isSyntheticDemo": true,
+      "clinicalProfile": {
+        "primaryCondition": "Microcytic Hypochromic Anemia",
+        "baselineHemoglobin": 9.8,
+        "targetHemoglobin": 13.5,
+        "baselineFerritin": 12.0
+      }
+    }
+  ],
+  "clinics": [
+    {
+      "id": "clinic-metro-health-001",
+      "name": "Metro Preventive Care & Wellness Clinic",
+      "type": "CLINIC",
+      "registrationNumber": "REG-MH-2024-9981",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "doc-ananya-sen-001",
+      "clinicId": "clinic-metro-health-001",
+      "user": {
+        "email": "dr.ananya.sen@metrocare.in",
+        "fullName": "Dr. Ananya Sen",
+        "phone": "+91-98111-22334",
+        "role": "DOCTOR"
+      },
+      "medicalRegNumber": "KMC-2015-87421",
+      "specialization": "Internal Medicine & Preventive Cardiology"
+    },
+    {
+      "id": "doc-rajesh-rao-002",
+      "clinicId": "clinic-metro-health-001",
+      "user": {
+        "email": "dr.rajesh.rao@metrocare.in",
+        "fullName": "Dr. Rajesh Rao",
+        "phone": "+91-98333-44556",
+        "role": "DOCTOR"
+      },
+      "medicalRegNumber": "KMC-2012-64210",
+      "specialization": "Internal Medicine & Preventive Care"
+    }
+  ],
+  "staff": [
+    {
+      "id": "staff-priya-patel-001",
+      "clinicId": "clinic-metro-health-001",
+      "user": {
+        "email": "priya.patel@metrocare.in",
+        "fullName": "Priya Patel",
+        "phone": "+91-98222-33445",
+        "role": "STAFF"
+      }
+    }
+  ]
+}

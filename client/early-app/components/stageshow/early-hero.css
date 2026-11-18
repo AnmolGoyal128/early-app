@@ -1,0 +1,191 @@
+.early-hero {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #f8fafc;
+  overflow: hidden;
+  font-family: var(--font-sans, system-ui, sans-serif);
+}
+
+.early-hero-window {
+  position: absolute;
+  top: 24px;
+  left: 36px;
+  width: 620px;
+  height: 412px;
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.08);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.early-hero-compact .early-hero-window {
+  top: 12px;
+  left: 12px;
+  width: 334px;
+  height: 416px;
+}
+
+.early-hero-header {
+  padding: 12px 16px;
+  border-bottom: 1px solid #f1f5f9;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffff;
+}
+
+.early-hero-patient {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.early-hero-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #0f172a;
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.early-hero-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: #0f172a;
+  letter-spacing: -0.01em;
+}
+
+.early-hero-scope-pill {
+  font-size: 10px;
+  padding: 2px 7px;
+  background: #f1f5f9;
+  color: #475569;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.early-hero-body {
+  flex: 1;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  overflow: hidden;
+}
+
+.early-hero-dropzone {
+  border: 1px dashed #cbd5e1;
+  border-radius: 8px;
+  padding: 10px 14px;
+  background: #f8fafc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 0.2s ease;
+}
+
+.early-hero-dropzone[data-active="true"] {
+  border-color: #0d9488;
+  background: #f0fdfa;
+}
+
+.early-hero-file-ghost {
+  position: absolute;
+  z-index: 50;
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.15);
+  border-radius: 6px;
+  padding: 6px 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  pointer-events: none;
+  font-size: 11px;
+  font-weight: 500;
+  color: #0f172a;
+}
+
+.early-hero-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 12px;
+  background: #ffffff;
+}
+
+.early-hero-extracted-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 10px;
+  background: #fafafa;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+.early-hero-satellite {
+  position: absolute;
+  top: 40px;
+  right: 28px;
+  width: 250px;
+  background: #ffffff;
+  border: 1px solid #fed7aa;
+  border-left: 3px solid #f97316;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px -4px rgba(249, 115, 22, 0.12);
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.early-hero-compact .early-hero-satellite {
+  position: static;
+  width: 100%;
+  margin-top: 8px;
+}
+
+.early-hero-satellite-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: #9a3412;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.early-hero-satellite-desc {
+  font-size: 11px;
+  color: #78350f;
+  line-height: 1.4;
+}
+
+.early-hero-badge-amber {
+  background: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.early-hero-badge-emerald {
+  background: #ecfdf5;
+  color: #065f46;
+  border: 1px solid #a7f3d0;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 600;
+}

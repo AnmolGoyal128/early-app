@@ -1,0 +1,37 @@
+APEX RENAL & DIAGNOSTIC CARE
+NABL Accredited Diagnostic Laboratory
+88 Indiranagar 100ft Road, Bengaluru, Karnataka - 560038
+Ph: +91-80-41223344 | Email: info@apexrenalcare.in
+
+RENAL FUNCTION TEST (RFT) & METABOLIC PANEL
+================================================================================
+Patient Name : Meera Nair                    Age / Gender : 54 Y / Female
+Patient ID   : P-991204                      Referred By  : Dr. Ananya Sen
+Sample Date  : 20-Oct-2026 09:15 AM          Report Date  : 20-Oct-2026 04:30 PM
+Sample Type  : Serum & Spot Urine            Contact      : +91-98234-56789
+Address      : Flat 302, Green Acres, Koramangala 4th Block, Bengaluru - 560034
+================================================================================
+
+TEST NAME                       RESULT   UNIT           REFERENCE RANGE   METHOD
+--------------------------------------------------------------------------------
+SERUM CREATININE                1.5      mg/dL          0.5 - 1.1         Modified Jaffe
+BLOOD UREA NITROGEN (BUN)       28.4     mg/dL          7 - 20            Urease GLDH
+BUN / CREATININE RATIO          18.9                    10 - 20           Calculated
+ESTIMATED GFR (eGFR, CKD-EPI)   58.0     mL/min/1.73m2  >= 90 (Normal)    CKD-EPI 2021
+                                                        60 - 89 (Mild)
+                                                        30 - 59 (Moderate)
+
+SERUM URIC ACID                 6.8      mg/dL          2.4 - 5.7         Uricase POD
+SERUM SODIUM                    138      mmol/L         136 - 145         ISE
+SERUM POTASSIUM                 4.6      mmol/L         3.5 - 5.1         ISE
+
+BLOOD PRESSURE (RECORDED AT LAB)
+Systolic BP                     152      mmHg           90 - 120 (Normal) Automated
+Diastolic BP                    96       mmHg           60 - 80 (Normal)  Automated
+
+================================================================================
+Clinical Remarks:
+eGFR indicates moderate decline compared to historical baseline of 75 mL/min/1.73m2.
+Repeat assessment and urine albumin-creatinine ratio (uACR) strongly advised.
+--------------------------------------------------------------------------------
+*** End of Diagnostic Report - Authenticated by Dr. Sandhya Joshi, MD (Pathology) ***

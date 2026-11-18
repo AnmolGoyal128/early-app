@@ -1,0 +1,40 @@
+APOLLO DIAGNOSTICS
+A Division of Apollo Health and Lifestyle Ltd (AHLL)
+Banjara Hills, Road No. 2, Hyderabad, Telangana - 500034
+NABL & CAP Certified Laboratory Network
+Toll Free: 1800-425-7890 | reports@apollodiagnostics.in
+
+COMPREHENSIVE GLYCEMIC MONITORING & CLINICAL VITALS
+================================================================================
+Patient Name : Aarav Sharma                  Age / Gender : 48 Y / Male
+UHID         : AD-BLR-449102                 Referred By  : Dr. Ananya Sen
+Collected At : 15-Oct-2026 08:30 AM          Report Date  : 15-Oct-2026 02:45 PM
+Sample Type  : Whole Blood EDTA & Fluoride   Phone        : +91-98765-43210
+Address      : 42 Palm Meadows, Whitefield, Bengaluru - 560066
+ABHA Number  : 14-3456-7890-1234             MRN          : MRN-882910
+================================================================================
+
+GLYCEMIC INVESTIGATIONS
+--------------------------------------------------------------------------------
+Test Description                Observed Value    Units    Biological Ref Interval   Method
+--------------------------------------------------------------------------------
+GLYCATED HEMOGLOBIN (HbA1c)     6.4               %        4.0 - 5.6 (Normal)        HPLC (NGSP Certified)
+                                                           5.7 - 6.4 (Pre-diabetes)
+                                                           >= 6.5 (Diabetes)
+
+ESTIMATED AVERAGE GLUCOSE (eAG) 137               mg/dL    70 - 115                  Calculated ADAG
+FASTING BLOOD SUGAR (GLUCOSE)   118               mg/dL    70 - 99                   Hexokinase
+POSTPRANDIAL BLOOD GLUCOSE      165               mg/dL    70 - 140                  Hexokinase
+
+CLINICAL VITALS AT APPOINTMENT
+Systolic BP                     146               mmHg     90 - 120                  Oscillometric
+Diastolic BP                    92                mmHg     60 - 80                   Oscillometric
+Pulse Rate                      78                bpm      60 - 100                  Digital Pulse Sensor
+================================================================================
+Advisory Note:
+HbA1c at 6.4% confirms pre-diabetic glycemic drift from 5.8% baseline.
+Fasting glucose impaired at 118 mg/dL; postprandial glucose impaired at 165 mg/dL.
+Stage 1 elevated hypertension (146/92 mmHg) recorded.
+Preventive lifestyle intervention, blood pressure monitoring, and 3-month review advised.
+--------------------------------------------------------------------------------
+*** End of Report - Certified by Dr. Anand Ramanathan, MD (Endocrinology) ***

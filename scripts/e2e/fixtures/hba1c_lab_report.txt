@@ -1,0 +1,38 @@
+METRO DIAGNOSTIC SERVICES & PATHOLOGY LAB
+ISO 15189:2012 Certified Laboratory
+120 Residency Road, Bengaluru, Karnataka - 560025
+Ph: +91-80-25598100 | Email: reports@metrodiagnostics.in
+
+CLINICAL BIOCHEMISTRY REPORT
+================================================================================
+Patient Name : Aarav Sharma                  Age / Gender : 48 Y / Male
+Patient ID   : P-882910                      Referred By  : Dr. Ananya Sen
+Sample Date  : 15-Oct-2026 08:30 AM          Report Date  : 15-Oct-2026 02:45 PM
+Sample Type  : Whole Blood EDTA              Contact      : +91-98765-43210
+Address      : 42 Palm Meadows, Whitefield, Bengaluru - 560066
+================================================================================
+
+TEST NAME                       RESULT   UNIT   REFERENCE RANGE      METHOD
+--------------------------------------------------------------------------------
+GLYCATED HEMOGLOBIN (HbA1c)     6.4      %      4.0 - 5.6 (Normal)   HPLC
+                                                5.7 - 6.4 (Pre-diabetes)
+                                                >= 6.5 (Diabetes)
+
+ESTIMATED AVERAGE GLUCOSE (eAG) 137      mg/dL  70 - 115             Calculated
+
+FASTING BLOOD SUGAR (GLUCOSE)   118      mg/dL  70 - 99 (Normal)     Hexokinase
+                                                100 - 125 (Pre-diabetes)
+                                                >= 126 (Diabetes)
+
+BLOOD PRESSURE (CLINICAL VITALS)
+Systolic BP                     146      mmHg   90 - 120 (Normal)    Oscillometric
+Diastolic BP                    92       mmHg   60 - 80 (Normal)     Oscillometric
+Pulse Rate                      78       bpm    60 - 100             Digital
+
+================================================================================
+Interpretation Note:
+HbA1c reflects average glycemic control over previous 8-12 weeks.
+Current reading indicates glycemic drift compared to baseline of 5.8%.
+Correlate clinically with dietary history and repeat reassessment in 3 months.
+--------------------------------------------------------------------------------
+*** End of Diagnostic Report - Authenticated by Dr. Rajesh Rao, MD (Biochemistry) ***

@@ -1,0 +1,40 @@
+DR LAL PATHLABS LTD.
+National Reference Laboratory
+Block E, Sector 18, Rohini, New Delhi - 110085
+ISO 15189:2012 Certified | NABL Accredited Lab No. M-0123
+Ph: +91-11-39885050 | Email: customer.care@lalpathlabs.com
+
+DEPARTMENT OF HEMATOLOGY & CLINICAL PATHOLOGY
+================================================================================
+Patient Name : Rohan Verma                   Age / Gender : 32 Y / Male
+Lab No       : LPL-DEL-892147                Referred By  : Dr. Rajesh Rao, MD
+Sample Date  : 25-Oct-2026 09:30 AM          Report Date  : 25-Oct-2026 02:15 PM
+Sample Type  : Whole Blood EDTA              Contact      : +91-99123-45678
+Address      : 14 Jayanagar 7th Block, Bengaluru, Karnataka - 560082
+ABHA No      : 91-8821-4452-9012             Aadhaar (Ref): XXXX-XXXX-4589
+================================================================================
+
+COMPLETE BLOOD COUNT (CBC) & AUTOMATED HEMOGRAM
+--------------------------------------------------------------------------------
+Test Name                       Results    Units      Bio. Ref. Interval    Method
+--------------------------------------------------------------------------------
+HEMOGLOBIN (Hb)                 9.8        g/dL       13.0 - 17.0           SLS Cyanide-Free
+TOTAL RBC COUNT                 3.85       mil/uL     4.50 - 5.50           Impedance Aperture
+PACKED CELL VOLUME (PCV / HCT)  31.2       %          40.0 - 50.0           Calculated
+MEAN CORPUSCULAR VOLUME (MCV)   72.4       fL         80.0 - 100.0          Direct Measurement
+MEAN CORPUSCULAR Hb (MCH)       23.1       pg         27.0 - 32.0           Calculated
+MCHC                            31.4       g/dL       31.5 - 34.5           Calculated
+RDW-CV                          16.8       %          11.5 - 14.5           Calculated
+
+TOTAL LEUKOCYTE COUNT (WBC)     6800       /uL        4000 - 11000          Flow Cytometry
+PLATELET COUNT                  245000     /uL        150000 - 450000       Impedance Counting
+
+SERUM FERRITIN (IRON STORES)    12.0       ng/mL      24.0 - 336.0          Chemiluminescence
+================================================================================
+Peripheral Smear Examination:
+RBC morphology shows moderate microcytosis and hypochromia. Mild anisopoikilocytosis present.
+WBC morphology: Normal distribution. Platelets: Adequate on smear.
+Impression: Microcytic hypochromic anemia consistent with Iron Deficiency Anemia.
+Advisory: Clinical correlation and oral iron therapy evaluation recommended.
+--------------------------------------------------------------------------------
+*** End of Report - Authenticated by Dr. Sunita Kulkarni, MD (Hematopathology) ***

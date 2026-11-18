@@ -1,0 +1,44 @@
+METROPOLIS HEALTHCARE LIMITED
+Global Reference Laboratory
+Kohinoor City, Commercial-1, Kurla (West), Mumbai - 400070
+CAP Accredited | NABL ISO 15189 Certified
+Ph: +91-22-66505555 | Email: support@metropolisindia.com
+
+BIOCHEMISTRY & METABOLIC LABORATORY REPORT
+================================================================================
+Patient Name : Aarav Sharma                  Age / Gender : 48 Y / Male
+Visit ID     : METRO-MUM-774120              Referred By  : Dr. Ananya Sen
+Sample Date  : 15-Oct-2026 08:00 AM          Report Date  : 15-Oct-2026 03:00 PM
+Sample Type  : Serum (12-14 Hrs Fasting)     Contact      : +91-98765-43210
+Address      : 42 Palm Meadows, Whitefield, Bengaluru, Karnataka - 560066
+ABHA Number  : 14-3456-7890-1234             MRN          : MRN-882910
+================================================================================
+
+LIPID PROFILE COMPREHENSIVE
+--------------------------------------------------------------------------------
+TEST PARAMETER                  RESULT     UNITS      BIOLOGICAL REF INTERVAL   METHOD
+--------------------------------------------------------------------------------
+TOTAL CHOLESTEROL               215        mg/dL      < 200                     CHOD-PAP
+                                                      200 - 239 (Borderline High)
+                                                      >= 240 (High)
+
+TRIGLYCERIDES                   178        mg/dL      < 150                     GPO-PAP
+                                                      150 - 199 (Borderline)
+                                                      >= 200 (High)
+
+HDL CHOLESTEROL                 42         mg/dL      > 40                      Direct Immunoinhibition
+
+LDL CHOLESTEROL (CALCULATED)    137        mg/dL      < 100                     Friedewald Equation
+                                                      100 - 129 (Near Optimal)
+                                                      130 - 159 (Borderline High)
+                                                      >= 160 (High)
+
+VLDL CHOLESTEROL                35.6       mg/dL      < 30                      Calculated
+CHOL / HDL RATIO                5.12       ratio      < 4.5                     Calculated
+================================================================================
+Clinical Interpretation:
+Elevated Total Cholesterol and LDL Cholesterol with hypertriglyceridemia indicates
+mixed dyslipidemia with elevated atherogenic cardiovascular risk ratio (> 4.5).
+Dietary modifications and repeat lipid assessment advised in 8-12 weeks.
+--------------------------------------------------------------------------------
+*** End of Report - Verified by Dr. Pradeep Verma, MD, FICP (Biochemistry) ***

@@ -1,0 +1,33 @@
+METRO DIAGNOSTIC SERVICES & PATHOLOGY LAB
+ISO 15189:2012 Certified Laboratory
+120 Residency Road, Bengaluru, Karnataka - 560025
+Ph: +91-80-25598100 | Email: reports@metrodiagnostics.in
+
+LIPID PROFILE COMPREHENSIVE
+================================================================================
+Patient Name : Aarav Sharma                  Age / Gender : 48 Y / Male
+Patient ID   : P-882910                      Referred By  : Dr. Ananya Sen
+Sample Date  : 15-Oct-2026 08:30 AM          Report Date  : 15-Oct-2026 03:00 PM
+Sample Type  : Serum (12h Fasting)           Contact      : +91-98765-43210
+================================================================================
+
+TEST NAME                       RESULT   UNIT   REFERENCE RANGE      METHOD
+--------------------------------------------------------------------------------
+TOTAL CHOLESTEROL               215      mg/dL  < 200 (Desirable)    CHOD-PAP
+                                                200 - 239 (Borderline High)
+                                                >= 240 (High)
+
+TRIGLYCERIDES                   178      mg/dL  < 150 (Normal)       GPO-PAP
+                                                150 - 199 (Borderline)
+
+HDL CHOLESTEROL                 42       mg/dL  > 40 (Optimal)       Direct Measure
+
+LDL CHOLESTEROL (CALCULATED)    137      mg/dL  < 100 (Optimal)      Friedewald
+                                                100 - 129 (Near Optimal)
+                                                130 - 159 (Borderline High)
+
+VLDL CHOLESTEROL                35.6     mg/dL  < 30                 Calculated
+CHOL / HDL RATIO                5.12            < 4.5                Calculated
+
+================================================================================
+*** End of Diagnostic Report - Authenticated by Dr. Rajesh Rao, MD (Biochemistry) ***
