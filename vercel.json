@@ -1,0 +1,29 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "early-app": {
+      "root": "client/early-app",
+      "framework": "nextjs",
+      "bindings": [
+        {
+          "type": "service",
+          "service": "ocr-service",
+          "format": "url",
+          "env": "OCR_SERVICE_URL"
+        }
+      ]
+    },
+    "ocr-service": {
+      "root": "ocr-service",
+      "framework": "fastapi"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": {
+        "service": "early-app"
+      }
+    }
+  ]
+}
